@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baxy750
-- 👀 I’m interested in C#, Python, bash, awk, C, Raspbian, VBA, .Net, processing.org, 6502 on Atari, occam on Inmos transputer 
+- 👀 I’m interested in C#, Python, bash, awk, C, Raspbian, VBA, .Net, processing.org, PIC, 6502 on Atari, occam on Inmos transputer 
 - 🌱 I’m currently learning Selenium, Python, PowerShell, REST, 8086
 - 💞️ I’m looking to collaborate on Atari 8-bit
 - 📫 How to reach me: Github message

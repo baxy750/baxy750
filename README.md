@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baxy750
-- 👀 I’m interested in C#, Python, bash, awk, C, Raspbian, VBA, .Net, processing.org, PIC, 6502 on Atari, occam on Inmos transputer 
-- 🌱 I’m currently learning Selenium, Python, PowerShell, REST, 8086
-- 💞️ I’m looking to collaborate on Atari 8-bit, occam, and a brainfk derivative with 2 instructions working on bits
+- 👀 I’m interested in .net, 6502, 8086, Atari, awk, bash, c, c#, d3, js, occam, plotly, powershell, processing.org, python, R, vba
+- 🌱 I’m currently learning Git!
+- 💞️ I’m looking to collaborate on an 8-bit shell for Atari
 - 📫 How to reach me: Github message
 
 <!---

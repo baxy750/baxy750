@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @baxy750
-- 👀 I’m interested in .net, 6502, 8086, Atari, awk, bash, c, c#, d3, js, occam, plotly, powershell, processing.org, python, R, vba
-- 🌱 I’m currently learning Git!
-- 💞️ I’m looking to collaborate on an 8-bit shell for Atari
+- 👋 I’m @baxy750
+- 👀 I’m interested in .net, 6502, 8086, AI/ML, Atari, awk, bash, c, c#, d3, FUZIX, js, Linux, occam, plotly, powershell, processing.org, python, RPi, UNIX-v1, vba
+- 🌱 Currently learning Magyarul, Lisp, Git
+- 💞️ I’m looking to collaborate on 8-bit shell
 - 📫 How to reach me: Github message
 
 <!---
